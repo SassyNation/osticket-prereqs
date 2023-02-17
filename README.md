@@ -1,6 +1,7 @@
 # osticket-prereqs
 
-![image](https://i.imgur.com/59IBQMw.png)
-Step 1: Log into Azure & Create a new resource group.
+Step 1: Create a new resource group in Azure ➡️
+https://imgur.com/cI4VLT7
 
-![image](https://i.imgur.com/4M45LUw.png)
+Step 2: Name your resource group & click Review + Create ➡️
+https://imgur.com/4M45LUw
