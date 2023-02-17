@@ -4,27 +4,26 @@ Step 1: Create a new Resource Group (RG) in Azure ➡️
 https://imgur.com/oOEN5sK
 
 Step 2: Name your RG & click Review + Create ➡️
-https://imgur.com/4M45LUw
+(https://imgur.com/myCpxER)
 
 Step 3: Click Create ➡️
 https://imgur.com/pBwvoB4
 
 Step 4: Your new RG will look like this ➡️
-https://imgur.com/pBwvoB4
-
+https://imgur.com/AaPPq4A
 
                                                     Now it's time to create a Virtual Machine
  Step 5: Create Virtual Machine (VM) ➡️
- https://imgur.com/8DouQzX
- 
+https://imgur.com/8DouQzX
+
  Step 6: Click + Create ➡️
- https://imgur.com/59IBQMw
- 
+https://imgur.com/59IBQMw
+
  Step 7: Click Azure virtual machine ➡️
- https://imgur.com/YoThnwg
- 
+https://imgur.com/YoThnwg
+
  Step 8: Open the tab beside the RG & choose the RG you just created ➡️
- https://imgur.com/9dnS3mn
+https://imgur.com/9dnS3mn
 
 Step 9 Name your VM & choose Windows 10 as the location to save your Image ➡️
 https://imgur.com/Dsy9OLN
@@ -49,4 +48,3 @@ https://imgur.com/cI4VLT7
 
 Step 16 Congratulation! This is what your new Virtual Machine will look like. The details will differ. ➡️
 https://imgur.com/QLjGbqG
-
