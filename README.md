@@ -1,7 +1,7 @@
 #                                                                     🖥️osticket-prereqs 🖥️
 
 Step 1: Create a new Resource Group (RG) in Azure ➡️
-(https://imgur.com/AaPPq4A)
+https://imgur.com/oOEN5sK
 
 Step 2: Name your RG & click Review + Create ➡️
 https://imgur.com/4M45LUw
