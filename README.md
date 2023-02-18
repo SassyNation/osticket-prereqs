@@ -12,7 +12,7 @@ https://imgur.com/pBwvoB4
 Step 4: Your new RG will look like this ➡️
 https://imgur.com/AaPPq4A
 
-                                              Now it's time to create a Virtual Machine
+               Now it's time to create a Virtual Machine
  Step 5: Create Virtual Machine (VM) ➡️
 https://imgur.com/8DouQzX
 
